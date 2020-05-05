@@ -1,6 +1,7 @@
 pub fn run() {
     println!("\n====3.16 MATCH====");
     let country_code = 44;
+    // TODO: Try to use another country codes
     // let country_code = 55;
     // let country_code = 2000;
 
@@ -13,6 +14,4 @@ pub fn run() {
     };
 
     println!("The coutry with code {} is {}", country_code, country);
-
-
 }
