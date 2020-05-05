@@ -1,6 +1,6 @@
 use std::mem;
 
-pub fn primitive() {
+pub fn run() {
     println!("\n====2.8 CORE DATATYPES====");
     let a: u8 = 255; // u8 holds values 0-255
     let b: i32 = 255; // i8 holds values - 128 - 127
