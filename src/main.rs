@@ -1,6 +1,8 @@
 
 mod part_2_types_and_variables;
 mod part_3_control_flow;
+use crate::part_2_types_and_varibles;
+use crate::part_3_control_flow;
 mod input;
 
 fn main() {
